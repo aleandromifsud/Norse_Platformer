@@ -1,0 +1,207 @@
+
+/* All pages have common properties for the background images*/
+.backgroundImages
+{
+    padding-top: 2%;
+    margin-top: 6%;
+    max-height: 100%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: 30% 20%;
+}
+
+.centerDiv
+{
+    margin-left: 30%;
+}
+
+/* Setting the background colour for between the pages*/
+.site
+{
+    background-color: #222;
+}
+
+/* Setting the background colour for the backdrop*/
+html
+{
+    background-color:#222 ;
+}
+body
+{
+    position : relative;
+}
+
+/* Setting nav bar elements */
+.navbar .navbar-nav {
+    display: inline-block;
+    float: none;
+    vertical-align: top;
+}
+
+.loginRegister
+{
+    padding-right: 2%;
+}
+
+.centreNav
+{
+    background-color: rgba(207, 0, 15, 0.96);
+    border-radius: 50%;
+}
+
+nav
+{
+    padding-top:0.5%;
+    padding-bottom: 0.5%;
+
+}
+
+.leftPanel
+{
+    margin-left: 15%;
+}
+
+.rightPanel
+{
+    margin-left: 2%;
+}
+
+.panel
+{
+    padding : 0;
+}
+
+#tutorial
+{
+    background-image: url("images/mainBackground/mountainBG.jpg");
+ }
+
+.tutImg
+{
+    padding : 0;
+    margin-top : 10%;
+}
+
+#keysImg
+{
+    margin-left : 20%;
+    margin-bottom: 5%;
+    margin-top: -3%;
+}
+
+#tutImg
+{
+    margin-top: 8%;
+}
+
+#lore
+{
+    background-image: url("images/mainBackground/loreBG.jpg");
+}
+
+#leaderB
+{
+    background-image: url("images/mainBackground/leaderB.jpg");
+}
+
+#personalProgImg
+{
+    margin-bottom : 2%;
+}
+
+#contact
+{
+    background-image: url("images/mainBackground/contactUs.jpg");
+}
+
+#about
+{
+    background-image: url("images/mainBackground/aboutUs.jpg");
+}
+
+#aboutImg
+{
+
+    margin-bottom: 3%;
+    margin-left: 15%;
+}
+
+#aboutPan
+{
+    margin-top: 1.5%;
+    margin-left: -7%;
+}
+
+#characterC
+{
+    background-image: url("images/mainBackground/character.jpg");
+}
+
+#loginRegister
+{
+    background-image: url("images/mainBackground/loginReg.jpg");
+}
+
+.panelRight
+{
+    margin-left : 2%;
+}
+
+footer
+{
+    background-color :#222 ;
+    color: white;
+}
+
+#social
+{
+    margin-left : 40%;
+}
+
+.bodyGame
+{
+    background-image: url("images/mainBackground/gameBG.jpg");
+    height: 650px;
+
+}
+
+#contImg
+{
+    margin: 10%;
+}
+
+#mapImg
+{
+    margin-left: 20%;
+}
+#signP
+{
+    margin-top: 2%;
+}
+
+#lorePan
+{
+    margin-top: 4%;
+}
+
+
+/* Temporary  class that is used as a placeholder for future content*/
+.body-content {
+    width:30%;
+    height:50%;
+    top:10%;
+    background-color: white;
+    margin-left:auto;
+    margin-right:auto;
+    margin-top: 10%;
+
+}
+
+#indexSite
+{
+    background-image: url("images/mainBackground/indexBG.jpg");
+    height: 650px;
+}
+
+
